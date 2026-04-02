@@ -1,9 +1,9 @@
 ---
-author: "Miroslav Anatonov, Andreas Tsatsanis, Francisco Duque De Morais Amaro, Raluca Alexia Neatu, Thomas van der Boon"
+author: "Miroslav atanasov, Andreas Tsatsanis, Francisco Duque De Morais Amaro, Raluca Alexia Neatu, Thomas van der Boon"
 title: "What is killing my computer? Measuring and recording background energy consumption"
 image: "img/gX_template/cover.png"
 summary: "While many energy profiling tools and methods are out there, there is little incentive for application developers to spend their time optimising for energy consumption. This widespread practice takes a toll on consumer hardware, and can result in premature end-of-life of otherwise capable devices. Our goal is to provide a lightweight tool to monitor and report energy consumption across all applications running on the user's system, in order to confront developers on the sustainability of their software."
-paper: "../papers/gX_template.pdf"
+paper: "../papers/g11_greenB.pdf"
 source: "https://github.com/Hacking-Sustainably/dev"
 website: https://luiscruz.github.io/course_sustainableSE/
 video: https://luiscruz.github.io/course_sustainableSE/
