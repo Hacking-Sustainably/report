@@ -12,6 +12,12 @@ identifier: "p2_hacking_sustainability_2026" # Do not change this
 all_projects_page: "../p2_hacking_sustainability" # Do not change this
 ---
 
+
+# Submission
+- [repository](https://github.com/Hacking-Sustainably/dev)
+- [report](https://github.com/Hacking-Sustainably/dev/blob/main/report.pdf)
+
+
 # `greenb` for monitoring energy consumption across all applications on your system
 While many energy profiling tools and methods are out there, there is little incentive for application developers to spend their time optimising for energy consumption. This widespread practice takes a toll on consumer hardware, and can result in premature end-of-life of otherwise capable devices. Our goal is to provide a lightweight tool to monitor and report energy consumption across all applications running on the user's system, in order to confront developers on the sustainability of their software.
 
@@ -47,8 +53,6 @@ On a global scale, even small energy optimisations can have a big impact.
 
 ### Impact analysis
 - what can we do to encourage users to speak up
-
-
 
 
 
