@@ -7,7 +7,7 @@ paper: "../papers/g11_greenB.pdf"
 source: "https://github.com/Hacking-Sustainably/dev"
 website: https://luiscruz.github.io/course_sustainableSE/
 video: https://luiscruz.github.io/course_sustainableSE/
-group_number: 0
+group_number: 11
 identifier: "p2_hacking_sustainability_2026" # Do not change this
 all_projects_page: "../p2_hacking_sustainability" # Do not change this
 ---
@@ -15,7 +15,7 @@ all_projects_page: "../p2_hacking_sustainability" # Do not change this
 
 # Submission
 - [repository](https://github.com/Hacking-Sustainably/dev)
-- [report](https://github.com/Hacking-Sustainably/dev/blob/main/report.pdf)
+- [report](https://github.com/Hacking-Sustainably/report/blob/main/2026/papers/g11_greenB.pdf)
 
 
 # `greenb` for monitoring energy consumption across all applications on your system
